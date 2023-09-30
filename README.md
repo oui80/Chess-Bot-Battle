@@ -1,5 +1,8 @@
 # Chess-Bot-Battle
 
+Projet :
+  confronter des bots qui jouent au échecs
+
 Ce repository contient un dossier pour l'UI de chess et un dossier bots :
 
 UI :
